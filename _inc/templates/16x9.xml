@@ -44,8 +44,7 @@
          <primaryColor>eaeaea</primaryColor>
          <secondaryColor>eaeaea</secondaryColor>
          <fontPath>./../fonts/Cabin-Bold-TTF.ttf</fontPath>
-         <fontSize>0.0375</fontSize>
-         <forceUppercase>1</forceUppercase>
+         <fontSize>0.0300</fontSize>
          <scrollSound>./../sounds/select.wav</scrollSound>
          <alignment>center</alignment>
       </textlist>
@@ -152,10 +151,10 @@
       </text>
 
       <textlist name="gamelist">
-         <pos>0.546875 0.180555555555556</pos>
-         <size>0.29375 0.708333333333333</size>
+         <pos>0.516875 0.180555555555556</pos>
+         <size>0.80000 0.708333333333333</size>
          <alignment>left</alignment>
-         <horizontalMargin>0.00625</horizontalMargin>
+         <horizontalMargin>0.00425</horizontalMargin>
       </textlist>
    </view>
 
